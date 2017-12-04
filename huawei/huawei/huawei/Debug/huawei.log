@@ -1,0 +1,9 @@
+﻿  huawei.cpp
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\ran\desktop\algorithm\huawei\huawei\huawei\huawei.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  huawei.vcxproj -> C:\Users\Ran\Desktop\Algorithm\huawei\huawei\Debug\huawei.exe
+  huawei.vcxproj -> C:\Users\Ran\Desktop\Algorithm\huawei\huawei\Debug\huawei.pdb (Full PDB)
